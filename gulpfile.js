@@ -7,6 +7,8 @@ var taskConfig = {
 		dependencies: [
 			'react',
 			'react-dom',
+      'create-react-class',
+      'prop-types'
 		],
 	},
 	example: {
